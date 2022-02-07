@@ -2,15 +2,9 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.insat.rnu.tn/Fr/accueil_46_34">National Institute of Applied Science and Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer ,Graphic designer  and Artist </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-[![Instagram Badge](https://img.shields.io/badge/-@EmnaBoukhris-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/emna_boukhris/)](https://www.instagram.com/emna_boukhris/)
-[![Gmail Badge](https://img.shields.io/badge/-emnabkk-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:emnabkk9@gmail.com)](mailto:emnabkk9@gmail.com)
+
 [![Linkedin: Emna Boukhris](https://img.shields.io/badge/-EmnaBoukhris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/emna-boukhris-611014214/)](https://www.linkedin.com/in/emna-boukhris-611014214/)
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/)
-[![Medium Badge](https://img.shields.io/badge/-@__jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_jessicalim)](https://medium.com/@_jessicalim)
-[![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me)
-[![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)
-[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://instagram.com/jlim_slam)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
