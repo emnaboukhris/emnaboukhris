@@ -6,6 +6,10 @@
 [![Linkedin: Emna Boukhris](https://img.shields.io/badge/-EmnaBoukhris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/emna-boukhris-611014214/)](https://www.linkedin.com/in/emna-boukhris-611014214/)
 
 
+[![Instagram Badge](https://img.shields.io/badge/-@EmnaBoukhris-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/emna_boukhris/)](https://www.instagram.com/emna_boukhris/)
+[![Gmail Badge](https://img.shields.io/badge/-emnabkk-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:emnabkk9@gmail.com)](mailto:emnabkk9@gmail.com)
+
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
