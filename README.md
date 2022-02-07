@@ -2,7 +2,8 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.insat.rnu.tn/Fr/accueil_46_34">National Institute of Applied Science and Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer ,Graphic designer  and Artist </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-
+[![Instagram Badge](https://img.shields.io/badge/-@Emna_Boukhris-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/emna_boukhris/)](https://www.instagram.com/emna_boukhris/)
+[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:emnabkk9@gmail.com)](mailto:emnabkk9@gmail.com)
 [![Linkedin: Emna Boukhris](https://img.shields.io/badge/-EmnaBoukhris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/emna-boukhris-611014214/)](https://www.linkedin.com/in/emna-boukhris-611014214/)
 
 
