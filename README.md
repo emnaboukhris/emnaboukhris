@@ -1,6 +1,6 @@
 <h2> Hey there , I'm Emna Boukhris ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">National Institute of Applied Science and Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer ,Graphic designer  and Artist </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at <a href="http://www.insat.rnu.tn/Fr/accueil_46_34">National Institute of Applied Science and Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer ,Graphic designer  and Artist </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: Emna Boukhris](https://img.shields.io/badge/-EmnaBoukhris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/emna-boukhris-611014214/)](https://www.linkedin.com/in/emna-boukhris-611014214/)
@@ -12,9 +12,9 @@
 ```javascript
 const Emna = {
   pronouns: "she" | "her",
-  skills  : [Javascript, Typescript, HTML, CSS, Python, Java, Java EE , C++ , C , php , symphony , React , next Js , MySQL , Spring Boot ],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-
+  development skills  : [Javascript, Typescript, HTML, CSS, Python, Java, Java EE , C++ , C , php , Symphony , React , nextjs , MySQL , Spring Boot ],
+  architecture: ["Uml" "design system pattern"],
+  Design skills: [Photoshop , illustrator , Blender , adobe after effect] , 
  challenge: "I am doing my own personnel website to sell my art work  focused on next js and nest "
 }
 ```
