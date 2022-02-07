@@ -14,7 +14,7 @@
 ```javascript
 const Emna = {
   pronouns: "she" | "her",
-  languages and tools  : [Javascript, Typescript, HTML, CSS, Python, Java, Java EE , C++ , C , PHP , Symphony , React , Next.js , Nest , MySQL , Spring Boot , Unix],
+  languages_And_tools  : [Javascript, Typescript, HTML, CSS, Python, Java, Java EE , C++ , C , PHP , Symphony , React , Next.js , Nest , MySQL , Spring Boot , Unix],
   architecture: ["Uml" "design system pattern"],
   design skills: [Photoshop , Adobe Illustrator , Blender , Adobe After Effects ] , 
  challenge: "I am doing my own personnel website to sell my art work  focused on next js and nest "
