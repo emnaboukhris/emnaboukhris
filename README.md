@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: Emna Boukhris](https://img.shields.io/badge/-EmnaBoukhris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/emna-boukhris-611014214/)](https://www.linkedin.com/in/emna-boukhris-611014214/)
-[![GitHub Emna](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
